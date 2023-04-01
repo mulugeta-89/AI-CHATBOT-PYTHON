@@ -1,6 +1,6 @@
 # AI-CHATBOT-PYTHON
 
-Welcome to the README file for your conversational AI chatbot made with PyTorch! This chatbot is designed to have simple yet engaging conversations with users, using a seed forward neural net.
+This chatbot is designed to have simple yet engaging conversations with users, using a seed forward neural net.
 
 To use this chatbot, you will need to have PyTorch installed on your machine. If you don't already have it installed, you can download it from the PyTorch website.
 
